@@ -1,3 +1,5 @@
+# github.com/conceptslearningmachine\
+
 # ReverseDSC Orchestrator for SharePoint
 This module allows you to extract the current configuration of any given SharePoint 2013 or 2016 (and soon 2019) farm as a PowerShell Desired State Configuration (DSC) .ps1 script along with its associated .psd1 Configuration Data File. With these files you can then recreate an exact copy (down to the SPWeb level) of your SharePoint Farm in another environment (cloud or on-premises).
 
